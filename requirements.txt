@@ -3,4 +3,6 @@ pandas
 matplotlib
 opencv-python-headless
 scipy
-re
+Pillow
+plotly-express
+streamlit-drawable-canvas
